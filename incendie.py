@@ -12,5 +12,5 @@ import as tkinter :
 
 #definition des constantes :
 
-
+gcj
 variables globales :
