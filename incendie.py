@@ -1,14 +1,13 @@
-<<<<<<< HEAD
-#################################################
-# Groupe MPCI 1
-# Celine
-# Zinaïda
-# Yamcel
-# Brice
-# https://github.com/21918142/Projet_incendie.git
-#############################################
+#####################################################
+# groupe MPCI 1
+# Celine DJADEL
+# Zinaïda BENAOUDIA
+# Yamcel ABDESSLAM
+# Brice AUGUSTIN
+# Lilya LAHJAILY
+# https://github.com/21918142/https---github.com-21918142-Projet_incendie
+###################################################
 
-#############################################
 #import des librairies :
 import as tkinter :
 #############################################
@@ -26,13 +25,3 @@ import as tkinter :
 #############################################
 
 #variables globales :
-=======
-#####################################################
-# groupe MPCI 1
-# Celine DJADEL
-# Zinaïda BENAOUDIA
-# Yamcel ABDESSLAM
-# Brice AUGUSTIN
-# Lilya LAHJAILY
-# https://github.com/21918142/https---github.com-21918142-Projet_incendie
-###################################################
