@@ -25,3 +25,4 @@ import as tkinter :
 #############################################
 
 #variables globales :
+blabla
