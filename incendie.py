@@ -13,4 +13,4 @@ import as tkinter :
 #definition des constantes :
 
 
-#variables globales :
+variables globales :
