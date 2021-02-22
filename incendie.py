@@ -1,27 +1,46 @@
-#####################################################
+########################################################################
 # groupe MPCI 1
-# Celine DJADEL
+# Céline DJADEL
 # Zinaïda BENAOUDIA
-# Yamcel ABDESSLAM
+# Yamcel ABEDESSELAM
 # Brice AUGUSTIN
 # Lilya LAHJAILY
 # https://github.com/21918142/https---github.com-21918142-Projet_incendie
-###################################################
+#########################################################################
 
-#import des librairies :
-import as tkinter :
-#############################################
+# IMPORT DES LIBRAIRIES :
+from tkinter import*
 
-#############################################
-#definition des constantes :
-#LONGUEUR = longueur du rectangle
-#LARGEUR = largeur du rectangle 
-#PARS_EAU = carré d'eau reste (jusqu'a la fin)
-#PARS_FORET = carré foret 
-#PARS_FEU = carré de feu 
-#PARS_PRAIRIE = carré prairie 
-#PARS_CENDRE_TIEDE = carré cendre tiède 
-#PARS_CENDRE_ETEINTE = carré cendre chaude
-#############################################
+# CONSTANTES :
+LARGEUR = 800
+HAUTEUR = 500
 
-#variables globales :
+# VARIABLES GLOBALES :
+
+# FONCTIONS :
+
+# PROGRAMME :
+# / Fenetre /
+racine = Tk()
+racine.config(width=LARGEUR, height=HAUTEUR)
+racine.title("Simulation de la propagation d'un incendie")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# / Gestion de la fenetre /
+racine.mainloop()

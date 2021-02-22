@@ -1,2 +1,1 @@
-# https---github.com-21918142-Projet_incendie
-# Projet de similation incendie
+Projet de simulation de la propagation d'un incendie
