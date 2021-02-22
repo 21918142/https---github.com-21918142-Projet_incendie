@@ -6,7 +6,6 @@
 # Brice AUGUSTIN
 # Lilya LAHJAILY
 # https://github.com/21918142/https---github.com-21918142-Projet_incendie
-<<<<<<< HEAD
 #########################################################################
 
 # IMPORT DES LIBRAIRIES :
