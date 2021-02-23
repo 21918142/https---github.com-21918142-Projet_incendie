@@ -30,7 +30,7 @@ def genere_terrain() :
     for i in range(0,LARGEUR,10) :
         for j in range(0,HAUTEUR,10) :
             terrain.append([i, j, random.choice(["blue","green","yellow"]), 0])
-            canvas.create_rectangle((i,j), (i+10,j+10), fill=terrain[w][2])
+            canvas.create_rectangle((i,j,i+10,j+10), fill=terrain[w][2])
             w +=1
 
 # PROGRAMME :
