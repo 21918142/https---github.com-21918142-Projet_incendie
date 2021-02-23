@@ -18,14 +18,20 @@ LARGEUR = 800
 HAUTEUR = 500
 
 # VARIABLES GLOBALES :
+terrain = []
 
 
 # FONCTIONS :
 
+
 def genere_terrain() :
+    global terrain
+    w = 0
     for i in range(0,LARGEUR,10) :
         for j in range(0,HAUTEUR,10) :
-            canvas.create_rectangle((i,j), (i+10,j+10), fill = "white")
+            terrain.append([i, j, random.choice(["blue","green","yellow"]), 0])
+            canvas.create_rectangle((i,j), (i+10,j+10), fill=terrain[w][2])
+            w +=1
 
 # PROGRAMME :
 # / Fenetre /
